@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'poppins';
+}
+
+.box{
+    /* border: 1px solid; */
+    padding: 10px;
+    margin: 10px;
+}
+
+.dit{
+    /* border: 1px solid; */
+    margin: 2px;
+}
+
+.header{
+    text-align: center;
+    /* border: 1px solid; */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.header span{
+    color: #334443;
+}
+
+.personal-data{
+    /* border: 1px solid; */
+    padding: 15px;
+}
+
+.p-contain{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.prof-img{
+    width: 200px;
+    border-radius: 5px;
+}
+
+.container{
+    /* border: 2px solid; */
+    padding: 20px;
+    /* height: 100vh; */
+}
+
+.main-container{
+    background: #f1f1f1;
+}
+
+.contents{
+    /* border: 2px solid; */
+    padding: 10px;
+    width: 65%;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 2px 6px 0 rgba(100, 100, 100, 0.363);
+    border-radius: 10px;
+}
+
+.box-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.career{
+    /* border: 1px solid; */
+    margin-top: 10px;
+    padding: 10px;
+    width: 800px;
+}
+
+.personal{
+    /* border: 1px solid; */
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.inst{
+    /* border: 1px solid; */
+    margin-top: 10px;
+    padding: 10px;
+    width: 700px;
+}
+
+.work{
+    /* border: 1px solid; */
+    margin-top: 10px;
+    padding: 10px;
+    width: 700px;
+}
+
+.hobbies{
+    /* border: 1px solid; */
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.refrees{
+    /* border: 1px solid; */
+    margin-top: 10px;
+    padding: 10px;
+}
